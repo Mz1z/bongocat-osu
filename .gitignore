@@ -4,5 +4,6 @@
 Makefile
 bongo
 bin/*
+SFML-2.5.1/*
 NOTE
 config.json
